@@ -1,4 +1,4 @@
-# Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learning
+# Predict Clicked Ads Customer Classification by using Machine Learning
 
 ![image](https://github.com/riyouuyt/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learning/assets/122600889/4e7663c9-1223-48cf-9beb-aa17ecf8d775)
 
